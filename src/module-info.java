@@ -8,4 +8,5 @@
  *
  */
 module hotair {
+	requires java.desktop;
 }
